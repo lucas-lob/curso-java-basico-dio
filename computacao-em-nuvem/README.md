@@ -26,3 +26,15 @@ Existem dois tipos de despesas em um sistema de computação em nuvem:
 - **Opex (Despesas operacionais):** São custos que ocorrem durante a utilização do sistema, como contas de luz, manutenções e mensalidades de serviços.
 
 Os serviços de computação em nuvem são do modelo de custo por uso. Dessa forma, os usuários que utilizarão o serviço terão despesas pré-definidas de acordo com o tempo desejado de uso dos serviços.
+
+### Benefícios
+
+Entre os benefícios a computação em nuvem, são possíveis citar:
+
+1. **Escalibilidade**: Capacidade de expansão do sistema para atender a um aumento de demanda sem que outros recursos sejam prejudicados.
+2. **Elasticidade**: Capacidade do sistema de ser configurado de maneira automática/manual para se adequar a uma mudança de requisições.
+3. **Disponibilidade**: Alta disponibilidade de serviços.
+4. **Segurança**: Alta privacidade de informações valiosas.
+5. **Confiabilidade**: Serviços que oferecem soluções adequadas e confiáveis.
+6. **Governança**: Capacidade do sistema de ser controlado e governado.
+7. **Gerenciamento**: Facilidade de gerenciamento do sistema, por meio de comandos ou painéis de controle.
