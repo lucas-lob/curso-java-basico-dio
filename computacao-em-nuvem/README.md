@@ -38,3 +38,11 @@ Entre os benefícios a computação em nuvem, são possíveis citar:
 5. **Confiabilidade**: Serviços que oferecem soluções adequadas e confiáveis.
 6. **Governança**: Capacidade do sistema de ser controlado e governado.
 7. **Gerenciamento**: Facilidade de gerenciamento do sistema, por meio de comandos ou painéis de controle.
+
+### Tipos de serviços
+
+Existem três tipos de serviços:
+
+1. **IaaS (Infraestrutura como um serviço)**: Este é o tipo de serviço mais abaixo da camada e refere-se a disponibilização de insfraestrutura de TI, como armazenamento, servidor e rede. Toda a responsibilidade de configuração e manutenção é destinada ao usuário.
+2. **PaaS (Plataforma como um serviço)**: É a disponibilização de plataformas integradas à infraestrutura de TI para a criação de aplicações, como um banco de dados. O usuário é responsável pela criação e evolução da aplicação, enquanto a parte da infraestrutura é responsabilidade do provedor do serviço.
+3. **SaaS (Software como um serviço)**: São serviços de uma aplicação pronta, onde o usuário se preocupa apenas em utilizar funcionalidades de acordo com o plano contratado. A parte do desenvolvimento da aplicação e infraestrutura fica sob responsabilidade do provedor do serviço.
